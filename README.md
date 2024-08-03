@@ -133,3 +133,8 @@ Then, copy and paste the URL on your browser to deploy your website.
 <br>
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyF_cs-logo.png?auto=format,compress" alt="IEEE CS MUJ Logo">
 <br>
+
+## Final Submission
+
+- **Repository Link:** [ Repository URL](https://github.com/anoushkanand/BreakingBug-Frontend)
+- **Google Sheet of Errors:** [Your Google Sheet URL](https://docs.google.com/spreadsheets/d/1mIqqr3H6yP6uQkVTRkSeMcW70Upm_usLbUp5JR70nl8/edit?usp=sharing)
